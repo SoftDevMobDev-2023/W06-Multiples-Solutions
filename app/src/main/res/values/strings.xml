@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">W06-Multiples-Solutions-2023</string>
     <string name="multiply">multiply!</string>
+    <string name="next">next!</string>
 </resources>
